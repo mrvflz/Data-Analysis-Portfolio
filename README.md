@@ -14,8 +14,13 @@ This is a repository to showcase skills, share projects and track my progress in
 1. Portfolio Projects
    
   - Python
+    *Project 1
+    *Project 2 
   - SQL
+    *Project 1
+    *Project 2  
   - Excel/Google Sheets
+    *Project 1
   - Tableau
   - Power BI
 
