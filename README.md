@@ -9,13 +9,14 @@ I am passionate about learning and continuously improving my technical skills, a
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-##Table of Contents
+## Table of Contents
 
 1. Portfolio Projects
--Python
--SQL
--Excel/Google Sheets
--Tableau
--Power BI
+   
+  -Python
+  -SQL
+  -Excel/Google Sheets
+  -Tableau
+  -Power BI
 
 2. Contact
