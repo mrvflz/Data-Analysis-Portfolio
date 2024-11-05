@@ -13,10 +13,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 1. Portfolio Projects
    
-  -Python
-  -SQL
-  -Excel/Google Sheets
-  -Tableau
-  -Power BI
+  - Python
+  - SQL
+  - Excel/Google Sheets
+  - Tableau
+  - Power BI
 
 2. Contact
