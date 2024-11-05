@@ -25,3 +25,18 @@ This is a repository to showcase skills, share projects and track my progress in
   - Power BI
 
 2. Contact
+3. CV
+
+## Portfolio Projects
+
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+## Contacts
+1. LinkedIn : [My Account](https://www.linkedin.com/in/merve-filiz-baker-a196b1174/)
+2. Email: mervefiliz.710@gmail.com
+3. Medium: [My Account](https://medium.com/@mervefiliz.710)
+   
+## CV
+
+
+
