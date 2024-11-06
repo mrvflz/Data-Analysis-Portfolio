@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
     * Project 2  
   - Excel/Google Sheets
     * Project 1
-  - Tableau
+  - [Tableau](https://public.tableau.com/app/profile/merve8068/vizzes)
   - Power BI
 
 2. Contact
