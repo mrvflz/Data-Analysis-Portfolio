@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 1. Portfolio Projects
    
   - Python
-    * Project 1
+    * [Gym Membership Analysis with Python ](https://github.com/mrvflz/Data-Analysis-Portfolio/blob/main/Gym%20Membership%20Analysis%20with%20Python.ipynb)
     * Project 2 
   - SQL
     * Project 1
