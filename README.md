@@ -15,7 +15,6 @@ This is a repository to showcase skills, share projects and track my progress in
    
   - Python
     * [Gym Membership Analysis with Python ](https://github.com/mrvflz/Data-Analysis-Portfolio/blob/main/Gym%20Membership%20Analysis%20with%20Python.ipynb)
-    * Project 2 
   - SQL
     * Project 1
     * Project 2  
@@ -33,7 +32,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Contacts
 1. LinkedIn : [My Account](https://www.linkedin.com/in/merve-filiz-baker-a196b1174/)
-2. Email: mervefiliz.710@gmail.com
+2. Email: merve.filizbaker@gmail.com
 3. Medium: [My Account](https://medium.com/@mervefiliz.710)
    
 ## CV
