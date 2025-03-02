@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     * [Gym Membership Analysis with Python ](https://github.com/mrvflz/Data-Analysis-Portfolio/blob/main/Gym%20Membership%20Analysis%20with%20Python.ipynb)
   - SQL
-    * Project 1
+    * [Chicago Crime Analysis Project with SQL](https://github.com/mrvflz/Data-Analysis-Portfolio/blob/main/Chicago%20Crime%20Analysis%20Project%20with%20Python%20and%20SQL.ipynb)
     * Project 2  
   - Excel/Google Sheets
     * Project 1
